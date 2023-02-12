@@ -72,5 +72,6 @@
   <a href="#" title="Tuki277">
     <img align="right" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tuki277&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
+  <figure><embed src="https://wakatime.com/share/@c37bfa1f-0b7b-442d-b70b-a1aff16f6ff5/e7a94ee3-c7e8-4002-8a69-faa99cbf60e3.svg"></embed></figure>
 </div>
 
