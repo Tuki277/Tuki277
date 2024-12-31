@@ -7,7 +7,7 @@
 <a href="https://instagram.com/tuki.2707/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tranhuy.2707/" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<!-- <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></span>
@@ -73,5 +73,5 @@
     <img align="right" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tuki277&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
   <figure><embed src="https://wakatime.com/share/@c37bfa1f-0b7b-442d-b70b-a1aff16f6ff5/e7a94ee3-c7e8-4002-8a69-faa99cbf60e3.svg"></embed></figure>
-</div>
+</div> -->
 
