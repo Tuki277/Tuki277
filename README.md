@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tran Hoang Huy</h1>
 <h3 align="center">A passionate developer from VietNam</h3>
-
+<a href="https://docs.google.com/document/d/1GID8meZFsFyB4gElPS9GWwAZ5HjPic6UeiQaZ4vLWPI/edit?usp=sharing">My CV</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/tran.huy.27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tran.huy.27" height="30" width="40" /></a>
